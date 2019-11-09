@@ -1,0 +1,62 @@
+/* tag selector . */
+body{
+   background: rgb(70, 22, 22);
+   font-family: Arial, Helvetica, sans-serif; 
+   color: white
+}
+
+#ice{
+    width: 200px
+}
+
+
+
+h1{
+    background-image: url(img/deliciousness.jpg);
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+    
+}
+
+     a{
+       background: yellow;
+       color: rgb(214, 128, 22);
+       font-size: 18px;
+       text-decoration: none;
+       display: block;
+       width: 100px;
+       padding: 5px;
+       margin-top: 5px;
+       text-align: center;
+}
+
+
+img{
+    width: 400px;
+}
+
+/* class selector . */
+
+.logo{
+    width: 150px;
+border-radius: 5px;
+border: 2px solid black;
+background: white;
+border-radius: 90%;
+}
+
+
+.text{
+    font-size: 20px;
+    text-indent: 50px;
+    color: rgb(206, 201, 192);
+}
+    
+
+/* id selector # */
+
+#title1{
+    color: white;
+}
